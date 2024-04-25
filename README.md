@@ -1,2 +1,4 @@
-# CSEL-302
-Repository Compilation - BSCS 2B
+# **Activities and Project Compilation**
+**Course code:**          CSEL 302 <br>
+**Course description:**   Introduction to Intelligent System <br>
+
