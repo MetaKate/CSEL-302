@@ -16,8 +16,6 @@
 # **Common Requirements**
 For some guidance and reference to the step-by-step programming, I have the following parts of requirements to achieve the desired result for these codes.
 
-
-
 # **---Definition**
 
 *    **Part 1: Data Preprocessing**
