@@ -14,8 +14,8 @@
 
   <div class="container mt-5">
     <h1 class="text-center">Activities and Projects Compilation</h1>
-    <h2 class="text-center">Course code: CSEL 302</h2>
-    <h2 class="text-center">Course description: Introduction to Intelligent System</h2>
+    <h2 class="text-center">Course code: CSEL 302 <br> 
+    Course description: Introduction to Intelligent System</h2>
 
     <div class="card mt-5">
       <div class="card-body">
