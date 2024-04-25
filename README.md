@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,17 +15,17 @@
   <div class="container mt-5">
     <h1 class="text-center">Activities and Projects Compilation</h1>
     <h5 class="text-center">Course code: CSEL 302</h5>
+     <h5 class="card-title">Course description: Introduction to Intelligent System</h5>
 
     <div class="card mt-5">
       <div class="card-body">
-        <h5 class="card-title">Course description: Introduction to Intelligent System</h5>
         <p class="card-text">Welcome to my Metakate-GitHub Account! This is for my compilation of works and below are the Assessment and Exercises Tasks. You'll find each of my code on the main page of this.</p>
       </div>
     </div>
 
     <div class="card mt-5">
       <div class="card-body">
-        <h5 class="card-title">Common Requirements</h5>
+        <h2 class="card-title">Common Requirements</h2>
         <p class="card-text">
           For some guidance and reference to the step-by-step programming, I have the following parts of requirements to achieve the desired result for these codes.
           <ul>
@@ -42,10 +41,10 @@
 
     <div class="card mt-5">
       <div class="card-body">
-        <h5 class="card-title">My Works</h5>
+        <h2 class="card-title">My Works</h2>
         <p class="card-text">
           <ul>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT1.ipynb">2B_MACASAET_ACT1.ipynb</a></li>
+            <li><a href="[https://github.com/yourusername/2B_MACASAET_ACT1.ipynb](https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET%26TORRES_EXER3.ipynb)">2B_MACASAET_ACT1</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_ACT2.ipynb">2B_MACASAET_ACT2.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4.ipynb</a></li>
