@@ -14,7 +14,7 @@
 
   <div class="container mt-5">
     <h1 class="text-center">Activities and Projects Compilation</h1>
-    <h2 class="text-center">Course code: CSEL 302</h2> <br>
+    <h2 class="text-center">Course code: CSEL 302</h2>
     <h2 class="text-center">Course description: Introduction to Intelligent System</h2>
 
     <div class="card mt-5">
@@ -44,16 +44,17 @@
         <h2 class="card-title">My Works</h2>
         <p class="card-text">
           <ul>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT1.ipynb">2B_MACASAET_ACT1</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT2.ipynb">2B_MACASAET_ACT2</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER2.ipynb">2B_MACASAET_EXER2</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER5_.ipynb">2B_MACASAET_EXER5</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER6_.ipynb">2B_MACASAET_EXER6</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER7.ipynb">2B_MACASAET_EXER7</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_MIDTERM.ipynb">2B_MACASAET_MIDTERM</a></li>
-            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_TASK2.ipynb">2B_MACASAET_TASK2</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT1.ipynb">2B_MACASAET_ACT1.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT2.ipynb">2B_MACASAET_ACT2.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER2.ipynb">2B_MACASAET_EXER2.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET&TORRES_EXER3.ipynb">2B_MACASAET&TORRES_EXER3.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER5_.ipynb">2B_MACASAET_EXER5_.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER6_.ipynb">2B_MACASAET_EXER6_.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER7.ipynb">2B_MACASAET_EXER7.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_MIDTERM.ipynb">2B_MACASAET_MIDTERM.ipynb</a></li>
+            <li><a href="https://github.com/yourusername/2B_MACASAET_TASK2.ipynb">2B_MACASAET_TASK2.ipynb</a></li>
           </ul>
         </p>
       </div>
