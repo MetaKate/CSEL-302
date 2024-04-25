@@ -49,7 +49,7 @@
             <li><a href="https://github.com/yourusername/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_EXER2.ipynb">2B_MACASAET_EXER2.ipynb</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET&TORRES_EXER3.ipynb">2B_MACASAET&TORRES_EXER3.ipynb</a></li>
+            <li><a href="2B_MACASAET&TORRES_EXER3.ipynb">2B_MACASAET&TORRES_EXER3.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_EXER5_.ipynb">2B_MACASAET_EXER5_.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_EXER6_.ipynb">2B_MACASAET_EXER6_.ipynb</a></li>
             <li><a href="https://github.com/yourusername/2B_MACASAET_EXER7.ipynb">2B_MACASAET_EXER7.ipynb</a></li>
