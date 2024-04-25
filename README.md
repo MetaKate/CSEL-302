@@ -44,17 +44,17 @@
         <h5 class="card-title">My Works</h5>
         <p class="card-text">
           <ul>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT1.ipynb">2B_MACASAET_ACT1</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT2.ipynb">2B_MACASAET_ACT2</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER2.ipynb">2B_MACASAET_EXER2</a></li>
-            <li><a href="2B_MACASAET&TORRES_EXER3.ipynb">2B_MACASAET&TORRES_EXER3</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER5_.ipynb">2B_MACASAET_EXER5_</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER6_.ipynb">2B_MACASAET_EXER6_</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_EXER7.ipynb">2B_MACASAET_EXER7</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_MIDTERM.ipynb">2B_MACASAET_MIDTERM</a></li>
-            <li><a href="https://github.com/yourusername/2B_MACASAET_TASK2.ipynb">2B_MACASAET_TASK2</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT1.ipynb">2B_MACASAET_ACT1</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT2.ipynb">2B_MACASAET_ACT2</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT3.ipynb">2B_MACASAET_ACT3</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_ACT4.ipynb">2B_MACASAET_ACT4</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER2.ipynb">2B_MACASAET_EXER2</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET%26TORRES_EXER3.ipynb">2B_MACASAET&TORRES_EXER3</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER5_.ipynb">2B_MACASAET_EXER5_</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER6_.ipynb">2B_MACASAET_EXER6_</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_EXER7.ipynb">2B_MACASAET_EXER7</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_MIDTERM.ipynb">2B_MACASAET_MIDTERM</a></li>
+            <li><a href="https://github.com/MetaKate/CSEL-302/blob/main/2B_MACASAET_TASK2.ipynb">2B_MACASAET_TASK2</a></li>
           </ul>
         </p>
       </div>
